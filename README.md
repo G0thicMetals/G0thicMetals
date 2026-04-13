@@ -1,18 +1,35 @@
 
-<img align="left" width="350" height="350" alt="Image"  src="https://github.com/user-attachments/assets/3b6e7ec7-b465-4a42-a6e0-576b8250dbc0" alt="My Image">
+<p align="center">
+<img width="333" height="175" alt="Image" src="https://github.com/user-attachments/assets/ccc5c4ad-f614-4a20-b586-cb3e0266d848" />
+<img width="333" height="175" alt="Image" src="https://github.com/user-attachments/assets/ccc5c4ad-f614-4a20-b586-cb3e0266d848" />
+<img width="333" height="175" alt="Image" src="https://github.com/user-attachments/assets/ccc5c4ad-f614-4a20-b586-cb3e0266d848" />
+</p>
+
+<p align="center">
+<img width="235" height="168" alt="Image" src="https://github.com/user-attachments/assets/ec991fef-745a-4af8-a61e-01d6ccfc355a" />
 </p>
 
 
-<p align="Left">
+
+<p align="center">
 𝓕𝓸𝓵𝓵𝓸𝔀 𝓫𝓪𝓬𝓴𝓼! 𝓦𝓲𝓵𝓵 𝓾𝓷𝓯𝓸𝓵𝓵𝓸𝔀 𝓲𝓯 𝔂𝓸𝓾 𝓾𝓷𝓯𝓸𝓵𝓵𝓸𝔀!!..
 </p>
+
+<p align="right">
+‎ ‎ 
+</p>
+
+
+<img align="left" width="350" height="350" alt="Image"  src="https://github.com/user-attachments/assets/61712477-3009-464e-a2cb-0cb15e850749" alt="My Image">
+</p>
+
 
 <p align="Left">
 𝓒𝓱𝓮𝓬𝓴 𝓹𝓻𝓸𝓷𝓸𝓾𝓷𝓼.𝓬𝓬! 𝓪𝓷𝓭 𝓢𝓲𝓰𝓷 𝓪𝓽𝓪! :>
 </p>
 
 <p align="right">
-𝓖𝓻𝓮𝓮𝓽𝓲𝓷𝓰𝓼 !!, 𝓘 𝓪𝓶 𝓓𝓻𝓪𝓬, 𝔂𝓸𝓾 𝓶𝓪𝔂 𝓪𝓵𝓼𝓸 𝓬𝓪𝓵𝓵 𝓶𝓮 𝓐𝓵𝓪𝓻𝓲𝓬.
+𝓖𝓻𝓮𝓮𝓽𝓲𝓷𝓰𝓼 !!, 𝓘 𝓪𝓶 𝓓𝓻𝓪𝓬, 𝔂𝓸𝓾 𝓶𝓪𝔂 𝓪𝓵𝓼𝓸 𝓬𝓪𝓵𝓵 𝓶𝓮 𝓐𝓵𝓪𝓻𝓲𝓬. 13-16 ┊: HE/HIM.
 </p>
 
 <p align="left">
@@ -28,11 +45,11 @@
 </p>
 
 <p align="Center">
-‎ ᛝ “ℭ𝔢𝔩𝔢𝔟𝔯𝔞𝔱𝔢 𝔱𝔥𝔢 𝔡𝔞𝔶 𝔶𝔬𝔲 𝔨𝔦𝔩𝔩𝔢𝔡 𝔪𝔶 𝔴𝔦𝔣𝔢. 𝔒𝔫𝔢 𝔶𝔢𝔞𝔯 ℑ 𝔤𝔞𝔳𝔢 𝔶𝔬𝔲.-” ᛝ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ≽^•⩊•^≼
+‎ ᛝ “ℭ𝔢𝔩𝔢𝔟𝔯𝔞𝔱𝔢 𝔱𝔥𝔢 𝔡𝔞𝔶 𝔶𝔬𝔲 𝔨𝔦𝔩𝔩𝔢𝔡 𝔪𝔶 𝔴𝔦𝔣𝔢. 𝔒𝔫𝔢 𝔶𝔢𝔞𝔯 ℑ 𝔤𝔞𝔳𝔢 𝔶𝔬𝔲.-” ᛝ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ≽^•⩊•^≼
 </p>
 
 <p align="Center">
-‎ᵀᵒ ᵐʸ ˡᵒᵛᵉ ˊ ᵈʳᵃᶜᵘˡᵃ <- ᶠⁱᶜᵗⁱᵒⁿˊ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎≽^•⩊•^≼ ‎ ‎ ‎ ‎ ‎‎‎≽^•⩊•^≼
+‎ᵀᵒ ᵐʸ ˡᵒᵛᵉ ˊ ᵈʳᵃᶜᵘˡᵃ <- ᶠⁱᶜᵗⁱᵒⁿˊ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎≽^•⩊•^≼ ‎ ‎ ‎ ‎ ‎‎‎≽^•⩊•^≼
 </p>
 
 <p align="right">
@@ -48,48 +65,44 @@
 </p>
 
 <p align="left">
-𝒫𝓇𝑒𝓈𝓈 𝑜𝓃 𝑜𝓃𝑒 𝑜𝒻 𝓉𝒽𝑒𝓈𝑒 𝓉𝑜 𝓇𝑒𝒶𝒹 𝒾𝓉!!  ᴷⁱⁿᵈ ˡᵒⁿᵍ..
+𝒫𝓇𝑒𝓈𝓈 𝑜𝓃 𝑜𝓃𝑒 𝑜𝒻 𝓉𝒽𝑒𝓈𝑒 𝓉𝑜 𝓇𝑒𝒶𝒹 𝒾𝓉!!  ᴷⁱⁿᵈ ˡᵒⁿᵍ..ᵃⁿᵈ..ⁱⁿ ᵇᵉᵗᵃ..
 </p>
 
 <p align="right">
 ‎ ‎ 
-</p>
+<br>
 
-<p align="Center">
 <details>
-  <summary><ins>ABOUT ME!</ins></summary>
+  <summary><ins>𝓐𝓫𝓸𝓾𝓽 𝓶𝓮,,</ins></summary>
 
   <div align="center">
-    <p>As you have most likely seen! I am Drac, but may be known as Alaric, or Ivor. Maybe even Mael.</p>
-    <p>I am a ambivert!,, Usually more social when meeting people, and after i know them well!,,Not so great in the middle,, (ᵕ—ᴗ—) </p>
-    <p>Im a Questioning Pan man, aswell as Transgender, HE/HIM is prefered. </p>
-    <p>I am between the ages of 13 and 17!,,Please do DNI if you are over 18+,,all Littles (Small childern) are fine tho!</p>
-    <p>More about me in the other slides!!,,</p>
+    <p>𝓐𝓼 𝔂𝓸𝓾 𝓱𝓪𝓿𝓮 𝓶𝓸𝓼𝓽 𝓵𝓲𝓴𝓮𝓵𝔂 𝓼𝓮𝓮𝓷! 𝓘 𝓪𝓶 𝓓𝓻𝓪𝓬, 𝓫𝓾𝓽 𝓶𝓪𝔂 𝓫𝓮 𝓴𝓷𝓸𝔀𝓷 𝓪𝓼 𝓐𝓵𝓪𝓻𝓲𝓬, 𝓸𝓻 𝓘𝓿𝓸𝓻. 𝓜𝓪𝔂𝓫𝓮 𝓮𝓿𝓮𝓷 𝓜𝓪𝓮𝓵.</p>
+    <p>𝓘 𝓪𝓶 𝓪 𝓪𝓶𝓫𝓲𝓿𝓮𝓻𝓽!,, 𝓤𝓼𝓾𝓪𝓵𝓵𝔂 𝓶𝓸𝓻𝓮 𝓼𝓸𝓬𝓲𝓪𝓵 𝔀𝓱𝓮𝓷 𝓶𝓮𝓮𝓽𝓲𝓷𝓰 𝓹𝓮𝓸𝓹𝓵𝓮, 𝓪𝓷𝓭 𝓪𝓯𝓽𝓮𝓻 𝓲 𝓴𝓷𝓸𝔀 𝓽𝓱𝓮𝓶 𝔀𝓮𝓵𝓵!,,𝓝𝓸𝓽 𝓼𝓸 𝓰𝓻𝓮𝓪𝓽 𝓲𝓷 𝓽𝓱𝓮 𝓶𝓲𝓭𝓭𝓵𝓮,, (ᵕ—ᴗ—) </p>
+    <p>𝓘𝓶 𝓪 𝓠𝓾𝓮𝓼𝓽𝓲𝓸𝓷𝓲𝓷𝓰 𝓟𝓪𝓷 𝓶𝓪𝓷, 𝓪𝓼𝔀𝓮𝓵𝓵 𝓪𝓼 𝓣𝓻𝓪𝓷𝓼𝓰𝓮𝓷𝓭𝓮𝓻, HE/HIM 𝓲𝓼 𝓹𝓻𝓮𝓯𝓮𝓻𝓮𝓭. </p>
+    <p>𝓘 𝓪𝓶 𝓫𝓮𝓽𝔀𝓮𝓮𝓷 𝓽𝓱𝓮 𝓪𝓰𝓮𝓼 𝓸𝓯 13 𝓪𝓷𝓭 17!,,𝓟𝓵𝓮𝓪𝓼𝓮 𝓭𝓸 𝓓𝓝𝓘 𝓲𝓯 𝔂𝓸𝓾 𝓪𝓻𝓮 𝓸𝓿𝓮𝓻 18+,,𝓪𝓵𝓵 𝓛𝓲𝓽𝓽𝓵𝓮𝓼 (𝓢𝓶𝓪𝓵𝓵 𝓬𝓱𝓲𝓵𝓭𝓮𝓻𝓷) 𝓪𝓻𝓮 𝓯𝓲𝓷𝓮 𝓽𝓱𝓸!</p>
+    <p>𝓜𝓸𝓻𝓮 𝓪𝓫𝓸𝓾𝓽 𝓶𝓮 𝓲𝓷 𝓽𝓱𝓮 𝓸𝓽𝓱𝓮𝓻 𝓼𝓵𝓲𝓭𝓮𝓼!!,,</p>
     
     Discord: G0thicMetal ) ( Pinterest: G0thicFather
-
-
   </div>
 </details>
 
 <br>
 
 
-</p>
-
-
 <p align="Center">
 <details>
-  <summary><ins>PONYTOWN!</ins></summary>
+  <summary><ins>𝓟𝓞𝓝𝓨𝓣𝓞𝓦𝓝!</ins></summary>
 
-  <div align="center">
-    <p>You are most likely coming from Ponytown !, Here are some things to know!</p>
-    <p>I have played since 2023, and 2024, and so on. So yes you may have seen me before!!</p>
-    <p>All ponies were made by me! Besides using tiny hair hacks and such, all are completely mine! Insp is fine :></p>
-    <p>INT is ALLOWED! Unless said in name,, I would love to get a whisper!! (I barely get any nowdays..)</p>
+<div align="center">
+    <p>𝓨𝓸𝓾 𝓪𝓻𝓮 𝓶𝓸𝓼𝓽 𝓵𝓲𝓴𝓮𝓵𝔂 𝓬𝓸𝓶𝓲𝓷𝓰 𝓯𝓻𝓸𝓶 𝓟𝓸𝓷𝔂𝓽𝓸𝔀𝓷 !, 𝓗𝓮𝓻𝓮 𝓪𝓻𝓮 𝓼𝓸𝓶𝓮 𝓽𝓱𝓲𝓷𝓰𝓼 𝓽𝓸 𝓴𝓷𝓸𝔀!</p>
+    <p>𝓘 𝓱𝓪𝓿𝓮 𝓹𝓵𝓪𝔂𝓮𝓭 𝓼𝓲𝓷𝓬𝓮 2023, 𝓪𝓷𝓭 2024, 𝓪𝓷𝓭 𝓼𝓸 𝓸𝓷. 𝓢𝓸 𝔂𝓮𝓼 𝔂𝓸𝓾 𝓶𝓪𝔂 𝓱𝓪𝓿𝓮 𝓼𝓮𝓮𝓷 𝓶𝓮 𝓫𝓮𝓯𝓸𝓻𝓮!!</p>
+    <p>𝓐𝓵𝓵 𝓹𝓸𝓷𝓲𝓮𝓼 𝔀𝓮𝓻𝓮 𝓶𝓪𝓭𝓮 𝓫𝔂 𝓶𝓮! 𝓑𝓮𝓼𝓲𝓭𝓮𝓼 𝓾𝓼𝓲𝓷𝓰 𝓽𝓲𝓷𝔂 𝓱𝓪𝓲𝓻 𝓱𝓪𝓬𝓴𝓼 𝓪𝓷𝓭 𝓼𝓾𝓬𝓱, 𝓪𝓵𝓵 𝓪𝓻𝓮 𝓬𝓸𝓶𝓹𝓵𝓮𝓽𝓮𝓵𝔂 𝓶𝓲𝓷𝓮! 𝓘𝓷𝓼𝓹 𝓲𝓼 𝓯𝓲𝓷𝓮 </p>
+    <p>𝓘𝓝𝓣 𝓲𝓼 𝓐𝓛𝓛𝓞𝓦𝓔𝓓! 𝓤𝓷𝓵𝓮𝓼𝓼 𝓼𝓪𝓲𝓭 𝓲𝓷 𝓷𝓪𝓶𝓮,, 𝓘 𝔀𝓸𝓾𝓵𝓭 𝓵𝓸𝓿𝓮 𝓽𝓸 𝓰𝓮𝓽 𝓪 𝔀𝓱𝓲𝓼𝓹𝓮𝓻!! (𝓘 𝓫𝓪𝓻𝓮𝓵𝔂 𝓰𝓮𝓽 𝓪𝓷𝔂 𝓷𝓸𝔀𝓭𝓪𝔂𝓼..)</p>
 
   </div>
 </details>
+
+
 
 <br>
 
@@ -102,13 +115,13 @@
 
 <p align="Center">
 <details>
-  <summary><ins>DNI AND INT</ins></summary>
+  <summary><ins>𝓓𝓝𝓘 𝓐𝓝𝓓 𝓘𝓝𝓣!!</ins></summary>
 
   <div align="center">
-    <p>DNI. if you are OVER the age of 18+ I believe i have said this already,,But here it is again!..</p>
-    <p>INT. You may int if you are under 18 or Under 13!,,I do not mind :D </p>
-    <p>DNI.Please Proshippers, and Any people in Incest Fandoms DNI!,,This includes TADC, or Helluva, i am in these, but i do not like the fandom.</p>
-    <p>INT. Basically anyone whos not on DNI! :D, im very nice! I do have a temper, but i DO NOT usually show it unless it involves my friends or Partner.</p>
+    <p>𝓓𝓝𝓘. 𝓲𝓯 𝔂𝓸𝓾 𝓪𝓻𝓮 𝓞𝓥𝓔𝓡 𝓽𝓱𝓮 𝓪𝓰𝓮 𝓸𝓯 18+ 𝓘 𝓫𝓮𝓵𝓲𝓮𝓿𝓮 𝓲 𝓱𝓪𝓿𝓮 𝓼𝓪𝓲𝓭 𝓽𝓱𝓲𝓼 𝓪𝓵𝓻𝓮𝓪𝓭𝔂,,𝓑𝓾𝓽 𝓱𝓮𝓻𝓮 𝓲𝓽 𝓲𝓼 𝓪𝓰𝓪𝓲𝓷!,,</p>
+    <p>𝓘𝓝𝓣. 𝓨𝓸𝓾 𝓶𝓪𝔂 𝓲𝓷𝓽 𝓲𝓯 𝔂𝓸𝓾 𝓪𝓻𝓮 𝓾𝓷𝓭𝓮𝓻 18 𝓸𝓻 𝓤𝓷𝓭𝓮𝓻 13!,,𝓘 𝓭𝓸 𝓷𝓸𝓽 𝓶𝓲𝓷𝓭 :𝓓 </p>
+    <p>𝓓𝓝𝓘.𝓟𝓵𝓮𝓪𝓼𝓮 𝓟𝓻𝓸𝓼𝓱𝓲𝓹𝓹𝓮𝓻𝓼, 𝓪𝓷𝓭 𝓐𝓷𝔂 𝓹𝓮𝓸𝓹𝓵𝓮 𝓲𝓷 𝓘𝓷𝓬𝓮𝓼𝓽 𝓕𝓪𝓷𝓭𝓸𝓶𝓼 𝓓𝓝𝓘!,,𝓣𝓱𝓲𝓼 𝓲𝓷𝓬𝓵𝓾𝓭𝓮𝓼 𝓣𝓐𝓓𝓒, 𝓸𝓻 𝓗𝓮𝓵𝓵𝓾𝓿𝓪, 𝓲 𝓪𝓶 𝓲𝓷 𝓽𝓱𝓮𝓼𝓮, 𝓫𝓾𝓽 𝓲 𝓭𝓸 𝓷𝓸𝓽 𝓵𝓲𝓴𝓮 𝓽𝓱𝓮 𝓯𝓪𝓷𝓭𝓸𝓶.</p>
+    <p>𝓘𝓝𝓣. 𝓑𝓪𝓼𝓲𝓬𝓪𝓵𝓵𝔂 𝓪𝓷𝔂𝓸𝓷𝓮 𝔀𝓱𝓸𝓼 𝓷𝓸𝓽 𝓸𝓷 𝓓𝓝𝓘! :𝓓, 𝓲𝓶 𝓿𝓮𝓻𝔂 𝓷𝓲𝓬𝓮! 𝓘 𝓭𝓸 𝓱𝓪𝓿𝓮 𝓪 𝓽𝓮𝓶𝓹𝓮𝓻, 𝓫𝓾𝓽 𝓲 𝓓𝓞 𝓝𝓞𝓣 𝓾𝓼𝓾𝓪𝓵𝓵𝔂 𝓼𝓱𝓸𝔀 𝓲𝓽 𝓾𝓷𝓵𝓮𝓼𝓼 𝓲𝓽 𝓲𝓷𝓿𝓸𝓵𝓿𝓮𝓼 𝓶𝔂 𝓯𝓻𝓲𝓮𝓷𝓭𝓼 𝓸𝓻 𝓟𝓪𝓻𝓽𝓷𝓮𝓻.</p>
 
   </div>
 </details>
@@ -117,9 +130,57 @@
 </p>
 
 
+ <div align="center">
+⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⡀⠀⠀⠀⠀⠀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⡀⠀⠀⢰⣿⣷⡄⠀⠀⢀⣾⣿⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⣧⠀⠀⢠⣿⣿⡄⠀⡿⣿⣿⣷⠀⠀⣾⣹⣿⣿⡀⠀⢀⣴⡀⠀⢀⣾⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣻⡆⠀⢸⣽⣿⣷⢸⣷⣿⣿⣿⡆⢰⠷⣾⣿⣿⠇⢠⣿⣽⣇⢀⣿⡿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡄⢸⣾⣿⣇⢸⣿⢿⣿⡀⣿⣩⣽⡿⠇⠸⣤⣹⣿⡟⢠⡿⣿⣿⡗⢠⣿⡇⣀⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⢠⠀⣿⠀⣿⣿⣿⠀⠻⢮⡿⠃⠀⠈⠉⠁⠀⠀⠈⠉⠁⠀⠘⢶⠀⠻⠃⣼⣿⢀⣿⡿⢸⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠇⠹⠀⢸⣿⣿⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⣭⡏⠘⣿⠁⠜⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⢿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡈⠏⠀⠀⠈⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠰⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢾⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠠⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⣑⡀⠀⠀⠀⢀⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣷⡀⠀⡀⠀⢀⣏⡁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡟⡿⢀⣴⠀⣆⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡟⢣⠸⣿⡄⠸⠏⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢻⡇⢸⣇⢰⣿⡇⣠⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⣀⠀⣿⣿⡄⢿⠓⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⠘⣿⡇⢸⣿⣿⣷⣴⣾⢀⣿⣿⣾⣿⣿⠀⣿⡿⠃⠘⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠐⢿⣿⠀⢿⢻⠉⣿⣿⠈⣿⣿⠉⣿⡏⢸⣿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠻⠇⠀⠘⠏⠀⢹⡏⠀⢿⠏⠀⢿⠇⠈⢠⠆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+</p>
 
 
 
+<div align="center">
+⠀⠀⠀⠀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+
+⠀⠀⠀⠀⠘⣿⣷⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+
+⠀⠀⠀⠀⠀⠀⠸⣿⣿⡄⠀⠀⠀⢸⣿⣿⣷⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣴⣿⡇⠀⠀⠀⠀⠀
+
+⠀⠀⠀⠀⠀⠀⠀⠀⢿⣿⣧⠀⠀⣿⣿⣿⣿⣿⣿⣷⣤⣤⣤⣤⣴⣾⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀
+
+⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣧⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠃⠀⠀⠀⠀⠀⠀
+
+⠀⠀⠀⠀⠀⠀⠀⣠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣇⠀⠀⠀⢻⣿⣿⣿⣿⠀⠀⣿⣿⠃⠀⠀⠀⠀⠀
+
+⠀⠀⠀⠀⢠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣉⣹⣿⣿⣿⣿⠋⠀⠀⠀⠀⠀⠀
+
+⠀⠀⠀⣸⣿⣿⣿⣿⡿⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⡄⠀⠀⠀⠀⠀⠀⠀⠀
+
+⠀⠀⣰⣿⣿⠏⠀⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡆⠀⠀⠀⠀⠀⠀⠀
+
+⣼⣿⣿⣿⠷⠄⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⠃⠀⠀⠀⠀⠀⠀⠀⠀⠘⢿⣿⣿⣿⣷⡀⠀⠀⠀⠀⠀
+
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢻⣿⣿⣿⣷⡀⠀⠀⠀
+
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⣿⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⣿⣿⣿⣿⣿⣿⡇
+
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣿⣿⣿⣿⣿⣿⣦⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+
+</p>
 
 
 
